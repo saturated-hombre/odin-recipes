@@ -1,1 +1,2 @@
-# odin-recipes
+The project is a collection of web-pages in which three recipes are given which can be made by the user with simple steps.
+The skills which I have learned from this project are insertion of links and images in html pages, different types of headings,git commands,file-organization of the project.
